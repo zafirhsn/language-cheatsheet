@@ -1,2 +1,2 @@
 # language-cheatsheet
-Cheatsheet for basic concepts in various languages
+This repository will serve as a reference for basic concepts in various programming languages, such as array manipulation, string manipulation, Object-oriented (classes, inheritance, etc.), file streams, logic, programming paradigm(s), and various other concepts. Each of these concepts will be explored in various languages such as C++, JavaScript, Python, Java, Node.js,and PHP. The goal is for this repository to serve as a simple starting point for new users of a language so they can spend more time building and less time catching up on syntax.
